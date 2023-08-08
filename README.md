@@ -23,5 +23,4 @@ Instructions:
 - If you click the correct square, The top of the page will change to the correct RGB color and you will see a "Correct!" message.
 - Click "Play Again" to reset the page with a new RGB value and colored squares.
 
-If you are unfamiliar with RGB color values, you can learn about them on W3Schools!
-* https://www.w3schools.com/colors/colors_rgb.asp
+If you are unfamiliar with RGB color values, you can learn about them on W3Schools: https://www.w3schools.com/colors/colors_rgb.asp

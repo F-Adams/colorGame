@@ -3,8 +3,8 @@
 ***
 This application was created while following a code-along project in a WebDev bootcamp on Udemy.
 The bootcamp was developed and presented by Colt Steele.
-- https://www.udemy.com/user/coltsteele
-- https://www.youtube.com/@ColtSteeleCode 
+- [Colt@Udemy](https://www.udemy.com/user/coltsteele)
+- [Colt's YouTube Channel](https://www.youtube.com/@ColtSteeleCode)
 
 This application demonstrates how HTML, CSS, and Javascript work together to create an interactive web page.
 It is a sort of "game" which not only contributed to my learning of Web Development concepts and skills,

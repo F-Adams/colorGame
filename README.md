@@ -18,7 +18,7 @@ Instructions:
 - You can choose any of the three difficulty levels by clicking either "Easy", "Medium" (the default), or "Hard". The number of squares will change beased on the chosen difficulty.
 - Each square is colored with a random color. You can change colors by clicking on "New Colors"
 - At the top of the page is an RGB color value.
-- To play, you simply clock on the square that matches the color value listed at the top.
+- To play, you simply click on the square that matches the color value listed at the top.
 - If you click the wrong colored square, the square will vanish and you will see a "Try Again" message.
 - If you click the correct square, The top of the page will change to the correct RGB color and you will see a "Correct!" message.
 - Click "Play Again" to reset the page with a new RGB value and colored squares.

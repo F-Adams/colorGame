@@ -15,7 +15,7 @@ The original code still exists, I simply commneted it out and added my changes. 
 
 Instructions:
 - When the page loads, you will be presented with several colored squares.
-- You can choose any of the three difficulty levels by clicking either "Easy", "Medium" (the default", or "Hard". The number of squares will change beased on the chosen difficulty.
+- You can choose any of the three difficulty levels by clicking either "Easy", "Medium" (the default), or "Hard". The number of squares will change beased on the chosen difficulty.
 - Each square is colored with a random color. You can change colors by clicking on "New Colors"
 - At the top of the page is an RGB color value.
 - To play, you simply clock on the square that matches the color value listed at the top.

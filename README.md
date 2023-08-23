@@ -11,7 +11,7 @@ It is a sort of "game" which not only contributed to my learning of Web Developm
 but also advanced my expert (not really) knowledge of HTML RGB color codes.
 
 Originally the application only had two difficulty levels. I modified the code myself to include a third difficulty level!
-The original code still exists, I simply commneted it out and added my changes.  It was a rediculously simple modification, I simply wanted to see if I could do it successfully.
+The original code still exists, I simply commneted it out and added my changes.  It was a ridiculously simple modification, I simply wanted to see if I could do it successfully.
 
 Instructions:
 - When the page loads, you will be presented with several colored squares.
